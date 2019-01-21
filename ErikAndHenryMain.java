@@ -1,9 +1,9 @@
 import java.util.*;
 
-public class ErikAndHenryMain{
-    public static 
-    
-    public static void main(String[] args){
+public class ErikAndHenryMain
+{
+    public static void main(String[] args)
+    {
         
     }
 }
